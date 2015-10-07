@@ -1,0 +1,101 @@
+
+/*
+.pierwsze {
+    background: rgb(0, 0, 255);
+    background: rgba(0, 0, 255, 0.4);
+}
+*/
+
+/*
+.pierwsze {
+    background: rgb(40, 60, 255);
+    opacity: 0.4;
+}
+*/
+/*
+.pierwsze {
+    background: rgb(0, 0, 255);
+    background: linear-gradient(to bottom, rgba(147,207,222,1) 0%, rgba(73,165,191,1) 100%);
+}
+
+.czwarte {
+    height: 200px;
+    width: 100%;
+    background: url(https://tookapic.imgix.net/photos/2015/272/c/b/cbad8203ec537782a4b5e58b2d612afc.jpg?w=770&q=90&s=51ca8c4c37fed67b732cbfc717b2e600) no-repeat center;
+}
+*/
+/*
+.pierwsze {
+    width: 300px;
+    height: 200px;
+    border: 6px double navy;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 30px;
+    display: inline-block;
+}
+
+.czwarte {
+    width: 100px;
+    height: 500px;
+    border: 10px dashed pink;
+    margin-top: 20px;
+    padding: 50px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+a {
+    margin: 200px;
+    color: green;
+}
+
+
+ul {
+    margin-left: 30px;
+    list-style-type: square;
+    font-size: 20px;
+}
+
+ul.druga {
+    list-style-image: url(li-bullet.png);
+    font-size: 30px;
+}
+
+ul.trzecia {
+    font-size: 0;
+    list-style: none;
+}
+
+ul.trzecia li {
+    background: url(li-bullet.png) no-repeat left center;
+    padding-left: 50px;
+    font-size: 60px;
+}
+*/
+ul.menu {
+    list-style: none;
+    color: #116493;
+    text-transform: uppercase;
+    font-size: none;
+    text-align: center;
+}
+
+ul.menu li{
+    display: inline-block;
+    margin: 0 20px;
+    font-size: 18px;
+}
+
+ul.menu a {
+    display: block;
+    background: pink;
+    border: 1px solid gray;
+    box-shadow: 4px -4px 4px 10px deeppink, -6px 6px 0 12px black;
+    border-radius: 10px 10px 10px 40px;
+    min-height: 10px;
+    min-width: 160px;
+    max-width: 240px;
+    padding: 10px;
+    text-align: center;
+}

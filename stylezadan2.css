@@ -1,0 +1,80 @@
+.pierwsze {
+    margin:30px;
+    border: 1px solid transparent;
+    height: 300px;
+    width: 300px;
+    background-color: greenyellow;
+    color: yellow;
+    border-radius: 75px 225px;
+    text-align: center;
+}
+
+.drugie {
+    margin: 30px;
+    border: 1px solid transparent;
+    height: 300px;
+    width: 300px;
+    background-color: greenyellow;
+    color: yellow;
+    border-radius: 150px;
+    text-align: center;
+}
+
+.trzecie {
+    margin: 30px;
+    border: 1px solid transparent;
+    height: 300px;
+    width: 300px;
+    background-color: greenyellow;
+    color: yellow;
+    border-radius: 20px 80px;
+    text-align: center;
+ }
+
+.czwarte {
+    margin: 30px;
+    border: 1px solid transparent;
+    height: 300px;
+    width: 300px;
+    background-color: pink;
+    color: yellow;
+    box-shadow: 0 0 0 5px red;
+}
+
+.piate {
+    margin: 30px;
+    border: 1px solid transparent;
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    color: red;
+    box-shadow: 0 -10px 15px -5px blue, 0 10px 15px -5px rgba(255,0,0,.15);
+}
+
+.szoste {
+    margin: 30px;
+    border: 1px solid transparent;
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    color: red;
+    box-shadow: 20px 20px 0 -5px blue;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 10px;
+    border: 2px solid black;
+    width: 70%;
+}
+
+th, td {
+    border: 1px solid black;
+    font-size: 22px;
+    padding: 10px;
+}
+
+th[scope="col"] {
+    background-color: blue;
+    color: white;
+}
