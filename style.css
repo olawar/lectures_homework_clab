@@ -1,0 +1,44 @@
+/*@font-face {
+    font-family: 'latoblack';
+    src: url('fonts/lato-black.woff2') format('woff2'),
+    url('fonts/lato-black.woff') format('woff'),
+    url('fonts/lato-black.ttf') format('truetype'),
+    url('fonts/lato-black.svg#latoblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    font-family: 'latoblack', sans-serif;
+}
+*/
+
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+
+div {
+    width: 500px;
+}
+
+h1 {
+    background-color: #ACC4CE;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    text-shadow: #878787;
+    text-transform: uppercase;
+}
+
+span {
+    color: #395075;
+    letter-spacing: 10px;
+}
+
+p {
+    color: grey;
+    font-size: 14px;
+    line-height: 20px;
+    text-indent: 20px;
+}
