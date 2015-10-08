@@ -129,7 +129,7 @@ for(var i = x; i <= y; i = i + 1){
 console.log(suma);
 */
 
-/*
+
 // niezalezny
 /*
 var line;
@@ -155,6 +155,7 @@ for(var i2 = 0; i2 < 10; i2 = i2 + 1){
 }
 */
 
+/*
 //zadanie 9
 var n = 7;
 var line;
@@ -172,4 +173,40 @@ for(var i = 1; i <= n; i = i + 1){
     }
     console.log(line);
 }
+*/
 
+/*
+//zadanie 10
+var n = 5;
+var line;
+for(var i = n; i >= 1; i = i - 1){
+    line = "";
+    for(var j = 0; j < n; j = j + 1) {
+        line = line + " "+ j;
+    }
+    console.log(line);
+}
+*/
+var n= 5;
+var line;
+for(var i = 1; i <= n; i = i + 1){
+    line = "";
+    for(var j = 1; j <= n; j = j + 1) {
+        if(j <= i) {
+            console.log(line = line + " *");
+        }
+        else {
+            console.log(line = line + " " + j);
+        }
+    }
+}
+/*
+ var line;
+ for(var i = 0; i < 10; i = i + 1){
+ line = i + ": ";
+ for(var j = 0; j < 5; j=j+1) {
+ line = line + " " + j;
+ }
+ console.log(line);
+ }
+*/
