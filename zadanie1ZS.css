@@ -1,0 +1,17 @@
+.pierwszy {
+    height: 300px;
+    width: 400px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+div:hover{
+    background: blue;
+    border-radius: 200px 100px;
+}
+
+div:active{
+    background: none;
+    box-shadow: 5px 5px 5px blue;
+}
