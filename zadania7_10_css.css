@@ -77,7 +77,7 @@ ul.menu {
     list-style: none;
     color: #116493;
     text-transform: uppercase;
-    font-size: none;
+    font-size: 0;
     text-align: center;
 }
 
