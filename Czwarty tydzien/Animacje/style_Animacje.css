@@ -1,0 +1,13 @@
+.machanie {
+    height: 72px;
+    width: 50px;
+    background: url("man3.png") no-repeat;
+    animation: lapka 600ms steps(10) infinite;
+    -webkit-animation: lapka 600ms steps(10) infinite;
+}
+
+@keyframes lapka
+{
+    0% { background-position:0 0; }
+    100% { background-position:-500px 0; }
+}

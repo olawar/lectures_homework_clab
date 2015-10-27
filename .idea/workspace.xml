@@ -2,50 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed606a82-7d56-425e-94c0-4fce91264b37" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trzeci tydzien/Sass/css/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trzeci tydzien/RWD/css2/_mixins_variables2.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trzeci tydzien/Sass/css/_partials.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trzeci tydzien/Sass/css/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trzeci tydzien/RWD/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trzeci tydzien/Sass/css/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trzeci tydzien/RWD/css2/style2_RWD.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trzeci tydzien/Flexbox/css/style_Flexbox.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trzeci tydzien/Photoshop/css/style_Photoshop.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Drugi tydzien/DOM/zadania14_10_konsola_DOM.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Drugi tydzien/DOM/zadania14_10_konsola_DOM.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trzeci tydzien/Sass/zadania19_10_Sass.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trzeci tydzien/RWD/zadania20_10_RWD.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trzeci tydzien/Flexbox/zadania21_10_Flexbox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trzeci tydzien/Photoshop/zadania21_10_Photoshop.html" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania12_10_JS.html" afterPath="$PROJECT_DIR$/Drugi tydzien/Zadania_JS/zadania12_10_JS.html" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania12_10_JS.js" afterPath="$PROJECT_DIR$/Drugi tydzien/Zadania_JS/zadania12_10_JS.js" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania13_10.html" afterPath="$PROJECT_DIR$/Drugi tydzien/Zadania_JS/zadania13_10.html" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania13_10.js" afterPath="$PROJECT_DIR$/Drugi tydzien/Zadania_JS/zadania13_10.js" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania13_14_10_DOM.html" afterPath="$PROJECT_DIR$/Drugi tydzien/DOM/zadania13_14_10_DOM.html" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania13_14_10_DOM.js" afterPath="$PROJECT_DIR$/Drugi tydzien/DOM/zadania13_14_10_DOM.js" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania14_10_events.html" afterPath="$PROJECT_DIR$/Drugi tydzien/Eventy/zadania14_10_events.html" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania14_10_events.js" afterPath="$PROJECT_DIR$/Drugi tydzien/Eventy/zadania14_10_events.js" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania14_10_konsola_DOM.html" afterPath="$PROJECT_DIR$/Drugi tydzien/DOM/zadania14_10_konsola_DOM.html" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania5_6_10_wprowadzenie.css" afterPath="$PROJECT_DIR$/Pierwszy tydzien/Wprowadzenie/zadania5_6_10_wprowadzenie.css" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania5_6_10_wprowadzenie.html" afterPath="$PROJECT_DIR$/Pierwszy tydzien/Wprowadzenie/zadania5_6_10_wprowadzenie.html" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania5_6_10_wprowadzenie.js" afterPath="$PROJECT_DIR$/Pierwszy tydzien/Wprowadzenie/zadania5_6_10_wprowadzenie.js" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania7_10_css.css" afterPath="$PROJECT_DIR$/Pierwszy tydzien/CSS_podstawy/zadania7_10_css.css" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania7_10_css.html" afterPath="$PROJECT_DIR$/Pierwszy tydzien/CSS_podstawy/zadania7_10_css.html" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania7_10_css2.css" afterPath="$PROJECT_DIR$/Pierwszy tydzien/CSS_podstawy/zadania7_10_css2.css" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania7_10_css2.html" afterPath="$PROJECT_DIR$/Pierwszy tydzien/CSS_podstawy/zadania7_10_css2.html" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania8_10_border.css" afterPath="$PROJECT_DIR$/Pierwszy tydzien/CSS_podstawy/zadania8_10_border.css" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania8_10_border.html" afterPath="$PROJECT_DIR$/Pierwszy tydzien/CSS_podstawy/zadania8_10_border.html" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania8_10_tablice_selektory.css" afterPath="$PROJECT_DIR$/Pierwszy tydzien/Selektory/zadania8_10_tablice_selektory.css" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania8_10_tablice_selektory.html" afterPath="$PROJECT_DIR$/Pierwszy tydzien/Selektory/zadania8_10_tablice_selektory.html" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania8_10_zaawansowane_selektory.css" afterPath="$PROJECT_DIR$/Pierwszy tydzien/Selektory/zadania8_10_zaawansowane_selektory.css" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania8_10_zaawansowane_selektory.html" afterPath="$PROJECT_DIR$/Pierwszy tydzien/Selektory/zadania8_10_zaawansowane_selektory.html" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania8_10_zaawansowane_selektory2.css" afterPath="$PROJECT_DIR$/Pierwszy tydzien/Selektory/zadania8_10_zaawansowane_selektory2.css" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania8_10_zaawansowane_selektory2.html" afterPath="$PROJECT_DIR$/Pierwszy tydzien/Selektory/zadania8_10_zaawansowane_selektory2.html" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania8_10_zaawansowany_css.css" afterPath="$PROJECT_DIR$/Pierwszy tydzien/CSS_zaawansowany/zadania8_10_zaawansowany_css.css" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadania8_10_zaawansowany_css.html" afterPath="$PROJECT_DIR$/Pierwszy tydzien/CSS_zaawansowany/zadania8_10_zaawansowany_css.html" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadanie11_10_domowe.html" afterPath="$PROJECT_DIR$/Pierwszy tydzien/JS_wprowadzenie/zadanie11_10_domowe.html" />
-      <change type="MOVED" beforePath="C:\Users\Awar\Documents\Coders Lab\Cwiczenia_clab\zadanie11_10_domowe.js" afterPath="$PROJECT_DIR$/Pierwszy tydzien/JS_wprowadzenie/zadanie11_10_domowe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Czwarty tydzien/Animacje/style_Animacje.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Czwarty tydzien/Animacje/zadania27_10_Animacje.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Trzeci tydzien/Sass/css/style.css" afterPath="$PROJECT_DIR$/Trzeci tydzien/Sass/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Cwiczenia_clab.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,14 +25,35 @@
     <favorites_list name="Cwiczenia_clab" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="zadania27_10_Animacje.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Czwarty tydzien/Animacje/zadania27_10_Animacje.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.20166074">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style_Animacje.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Czwarty tydzien/Animacje/style_Animacje.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="Html5" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -82,9 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/zadanie12.js" />
-        <option value="$PROJECT_DIR$/zadanie12.html" />
         <option value="$PROJECT_DIR$/zadania12_10.html" />
         <option value="$PROJECT_DIR$/zadania12_10.js" />
         <option value="$PROJECT_DIR$/zadania13_10.html" />
@@ -133,6 +111,9 @@
         <option value="$PROJECT_DIR$/Trzeci tydzien/Flexbox/css/style_Flexbox.scss" />
         <option value="$PROJECT_DIR$/Trzeci tydzien/Photoshop/zadania21_10_Photoshop.html" />
         <option value="$PROJECT_DIR$/Trzeci tydzien/Photoshop/css/style_Photoshop.scss" />
+        <option value="$PROJECT_DIR$/Czwarty tydzien/Animacje/index.html" />
+        <option value="$PROJECT_DIR$/Czwarty tydzien/Animacje/style.css" />
+        <option value="$PROJECT_DIR$/Czwarty tydzien/Animacje/zadania27_10_Animacje.html" />
       </list>
     </option>
   </component>
@@ -189,6 +170,136 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Cwiczenia_clab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cwiczenia_clab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cwiczenia_clab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trzeci tydzien" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cwiczenia_clab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cwiczenia_clab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trzeci tydzien" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cwiczenia_clab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cwiczenia_clab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trzeci tydzien" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RWD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cwiczenia_clab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cwiczenia_clab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trzeci tydzien" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Photoshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cwiczenia_clab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cwiczenia_clab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trzeci tydzien" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Photoshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cwiczenia_clab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cwiczenia_clab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trzeci tydzien" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cwiczenia_clab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cwiczenia_clab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Czwarty tydzien" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Animacje" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -346,12 +457,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26437995" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26437995" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24960423" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -365,7 +477,6 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994652" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -400,20 +511,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pierwszy tydzien/fonts/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52819335">
-          <caret line="27" column="68" selection-start-line="27" selection-start-column="68" selection-end-line="27" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Pierwszy tydzien/Selektory/zadania8_10_zaawansowane_selektory2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.1923075">
@@ -592,13 +689,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Trzeci tydzien/Sass/zadania19_10_Sass.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10083037">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Trzeci tydzien/Sass/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -760,6 +850,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trzeci tydzien/Sass/zadania19_10_Sass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Czwarty tydzien/Animacje/style_Animacje.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Czwarty tydzien/Animacje/zadania27_10_Animacje.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20166074">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
