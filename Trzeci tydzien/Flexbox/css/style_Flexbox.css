@@ -1,0 +1,49 @@
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0;
+  height: 1000px;
+  max-width: 1200px;
+}
+
+.header {
+  background-color: red;
+  height: 100px;
+}
+
+.middle {
+  display: flex;
+  flex-direction: row;
+}
+
+.menu {
+  height: 200px;
+  padding: 0;
+  flex: 1 1 15%;
+}
+
+.cell {
+  height: 46.25px;
+  background-color: blue;
+  margin: 3px 0;
+}
+
+.main {
+  background-color: yellow;
+  height: 200px;
+  flex: 2 1 70%;
+}
+
+.additional {
+  background-color: blue;
+  height: 200px;
+  flex: 1 1 15%;
+}
+
+.footer {
+  background-color: red;
+  height: 100px;
+}
+
+/*# sourceMappingURL=style_Flexbox.css.map */

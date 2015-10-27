@@ -1,0 +1,14 @@
+$smartphone-width: "(max-width: 768px)";
+
+@mixin smartphone {
+  @media #{$smartphone-width} {
+    @content;
+  }
+}
+
+$basic-green: #24BA9F;
+$basic-white: #ffffff;
+$basic-gray: #D6D6D6;
+$basic-gray2: #808080;
+$basic-black: #000000;
+$default-width: 1024px;

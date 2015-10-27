@@ -58,7 +58,7 @@ ul {
 }
 
 ul.druga {
-    list-style-image: url(li-bullet.png);
+    list-style-image: url(../li-bullet.png);
     font-size: 30px;
 }
 
@@ -68,7 +68,7 @@ ul.trzecia {
 }
 
 ul.trzecia li {
-    background: url(li-bullet.png) no-repeat left center;
+    background: url(../li-bullet.png) no-repeat left center;
     padding-left: 50px;
     font-size: 60px;
 }

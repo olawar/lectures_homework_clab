@@ -1,0 +1,17 @@
+.obrazki {
+  display: inline-block;
+}
+
+.kratka {
+  width: 800px;
+  height: 262px;
+  background-image: url("../images/tenslice2.png");
+  background-repeat: repeat;
+  float: left;
+}
+
+img {
+  float: right;
+}
+
+/*# sourceMappingURL=style_Photoshop.css.map */

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,QAAS;EACP,OAAO,EAAE,YAAY;;;AAIvB,OAAO;EACL,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,gBAAgB,EAAE,8BAA8B;EAChD,iBAAiB,EAAE,MAAM;EACzB,KAAK,EAAE,IAAI;;;AAGb,GAAI;EACF,KAAK,EAAE,KAAK",
+"sources": ["style_Photoshop.scss"],
+"names": [],
+"file": "style_Photoshop.css"
+}

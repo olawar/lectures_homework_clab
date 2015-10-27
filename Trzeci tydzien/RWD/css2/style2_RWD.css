@@ -1,0 +1,205 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.grid-container {
+  width: 100%;
+  max-width: 1200px;
+  box-sizing: border-box;
+}
+
+.row:before, .row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.col-1 {
+  width: 8.33333%;
+}
+
+.col-2 {
+  width: 16.66667%;
+}
+
+.col-3 {
+  width: 25%;
+}
+
+.col-4 {
+  width: 33.33333%;
+}
+
+.col-5 {
+  width: 41.66667%;
+}
+
+.col-6 {
+  width: 50%;
+}
+
+.col-7 {
+  width: 58.33333%;
+}
+
+.col-8 {
+  width: 66.66667%;
+}
+
+.col-9 {
+  width: 75%;
+}
+
+.col-10 {
+  width: 83.33333%;
+}
+
+.col-11 {
+  width: 91.66667%;
+}
+
+.col-12 {
+  width: 100%;
+}
+
+[class*="col-"] {
+  float: left;
+  min-height: 1px;
+  /*gutter*/
+  padding: 15px;
+}
+@media (max-width: 768px) {
+  [class*="col-"] {
+    float: none;
+    width: 100%;
+  }
+}
+
+.header {
+  background-color: red;
+  height: 100px;
+}
+
+.menu {
+  height: 200px;
+  padding: 0;
+}
+
+.cell {
+  height: 46.25px;
+  background-color: blue;
+  margin: 3px 0;
+}
+
+.main {
+  background-color: yellow;
+  height: 200px;
+}
+
+.additional {
+  background-color: blue;
+  height: 200px;
+}
+
+.footer {
+  background-color: red;
+  height: 100px;
+}
+
+.in-body {
+  width: 50%;
+  height: auto;
+  display: inline-block;
+  vertical-align: top;
+  float: left;
+}
+@media (max-width: 768px) {
+  .in-body {
+    float: none;
+    width: 100%;
+  }
+}
+
+.content {
+  width: 50%;
+  float: left;
+}
+@media (max-width: 768px) {
+  .content {
+    float: none;
+    width: 100%;
+  }
+}
+
+.image {
+  background-image: url("../images/box2_img.jpg");
+  background-size: 100%;
+  padding-bottom: 56.55%;
+  background-repeat: no-repeat;
+  border: 1px solid black;
+  box-sizing: border-box;
+  display: inline-block;
+  vertical-align: top;
+  width: 100%;
+}
+
+.myButton {
+  display: none;
+}
+
+.desktopView {
+  background-color: #000000;
+  width: 100%;
+}
+.desktopView ul {
+  height: 50px;
+}
+.desktopView ul :nth-child(n+3):nth-child(-n+4) {
+  padding-right: 50px;
+}
+.desktopView ul li {
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #ffffff;
+  padding: 18px 0 18px 0;
+}
+.desktopView ul li a:link {
+  text-decoration: none;
+  color: #ffffff;
+}
+.desktopView ul li a:visited {
+  text-decoration: none;
+  color: #ffffff;
+}
+.desktopView ul li .links {
+  float: right;
+}
+
+.smartphoneView {
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #ffffff;
+  width: 100%;
+}
+.smartphoneView ul li {
+  background-color: #000000;
+  border: 1px solid red;
+}
+.smartphoneView ul li a:link {
+  text-decoration: none;
+  color: #ffffff;
+}
+.smartphoneView ul li a:visited {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.clickClass {
+  display: none;
+}
+
+/*# sourceMappingURL=style2_RWD.css.map */

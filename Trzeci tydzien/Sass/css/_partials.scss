@@ -1,0 +1,101 @@
+
+body {
+  background-color: red;
+  margin: 0;
+  padding: 0;
+}
+
+
+.nav-toolbar {
+  background-color: blue;
+  width: 980px;
+  box-sizing: border-box;
+  @include smallDisplay {
+    width: 200px;
+  }
+  li {
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: $basic-color;
+    @include smallDisplay {
+      display: block;
+    }
+    margin: 30px;
+    :link{
+      color: red;
+    }
+  }
+}
+
+
+@for $i from 4 through 1 {
+  h#{$i} {
+    font-size: $basic-size;
+  }
+  $basic-size : $basic-size * 1.5;
+}
+
+@for $i from 4 through 1 {
+  h#{$i} {
+    line-height: $basic-line;
+  }
+  $basic-line : $basic-line * 1.5;
+}
+
+@for $i from 1 through 4 {
+  h#{$i} {
+    color: $basic-color;
+  }
+  $basic-color : darken($basic-color, 15%);
+}
+
+
+ul {
+  li {
+    color: $font-color;
+  }
+
+}
+
+.items li {
+  a {
+    &:link {
+      color: yellow;
+    }
+    &:hover {
+      color: blue;
+    }
+    &:visited {
+      color: fuchsia;
+    }
+  }
+}
+
+.items li {
+  border: 1px dashed white;
+  @include border-radius(5px);
+}
+
+
+
+
+
+@function getBoxWidth($n) {
+  @return ($containerWidth - $boxMargin *2*$n)/$n;
+}
+
+
+
+.functionTask{
+  width: $containerWidth;
+  background-color: yellow;
+  height: 200px;
+}
+
+.box{
+  background-color: #00b3ff;
+  height: 100px;
+  float: left;
+  margin: $boxMargin;
+  width: getBoxWidth(3);
+}

@@ -1,0 +1,19 @@
+.tooltip:before {
+    content: "La la la";
+    display: block;
+    font-size: 14px;
+    color: red;
+    border-radius: 3px;
+    padding: 5px;
+    background-color: white;
+    border:1px solid #dcdcdc;
+}
+
+
+.blocks {
+    display: block;
+}
+
+.displayNone {
+    display: none;
+}

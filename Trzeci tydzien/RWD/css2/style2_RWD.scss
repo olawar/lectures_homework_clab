@@ -1,0 +1,188 @@
+@import "mixins_variables2";
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.grid-container{
+  width: 100%;
+  max-width: 1200px;
+  box-sizing: border-box;
+}
+
+
+.row{
+  &:before,
+  &:after {
+    content : "";
+    display : table;
+    clear: both;
+  }
+}
+
+@for $i from 1 through 12 {
+  .col-#{$i} {
+    width: (100%/12) * $i;
+  }
+}
+
+[class*="col-"] {
+  float: left;
+  min-height: 1px;
+  /*gutter*/
+  padding: 15px;
+  @include smartphone{
+    float: none;
+    width: 100%;
+  }
+}
+
+.header {
+  background-color: red;
+  height: 100px;
+}
+
+.menu {
+  height: 200px;
+  padding: 0;
+}
+
+.cell{
+  height: ((200px-5*3px)/4);
+  background-color: blue;
+  margin: 3px 0;
+}
+
+.main {
+  background-color: yellow;
+  height: 200px;
+}
+
+.additional{
+  background-color: blue;
+  height: 200px;
+}
+
+.footer {
+  background-color: red;
+  height: 100px;
+}
+
+
+//obrazki - zadanie 4
+.in-body {
+  width: 50%;
+  height: auto;
+  display: inline-block;
+  vertical-align: top;
+  float: left;
+  @include smartphone{
+    float: none;
+    width: 100%;}
+}
+
+.content {
+  width:50%;
+  float: left;
+  @include smartphone{
+    float: none;
+    width: 100%;}
+}
+
+.image {
+  background-image: url("../images/box2_img.jpg");
+  background-size: 100%;
+  padding-bottom: 56.55%;
+  background-repeat: no-repeat;
+  border: 1px solid black;
+  box-sizing: border-box;
+  display: inline-block;
+  vertical-align: top;
+  width: 100%;
+}
+
+//zadanie 5
+
+.myButton {
+  display: none;
+  //@include smartphone{
+  //  display: block;
+  //}
+}
+
+.desktopView {
+  background-color: $basic-black;
+  width: 100%;
+  //@include smartphone{
+  //  display: none;
+  //}
+  ul {
+    height: 50px;
+    :nth-child(n+3):nth-child(-n+4) {
+      padding-right: 50px;
+    }
+    li {
+      display: inline-block;
+      text-transform: uppercase;
+      font-size: 14px;
+      color: $basic-white;
+      padding: 18px 0 18px 0;
+
+      a:link {
+        text-decoration: none;
+        color: $basic-white;
+      }
+      a:visited {
+        text-decoration: none;
+        color: $basic-white;
+      }
+      .links {
+        float: right;
+      }
+    }
+  }
+}
+
+.smartphoneView {
+  text-transform: uppercase;
+  font-size: 14px;
+  color: $basic-white;
+  width: 100%;
+  ul{
+    li{
+      background-color: $basic-black;
+      border: 1px solid red;
+      a:link {
+        text-decoration: none;
+        color: $basic-white;
+      }
+      a:visited {
+        text-decoration: none;
+        color: $basic-white;
+      }
+    }
+  }
+
+}
+
+.clickClass {
+  display: none;
+}
+
+
+
+//
+//@media screen and (max-width: 768px) {
+//  [class*="col-"] {
+//    float: none !important;
+//    width: 100% !important;
+//  }
+//  body {
+//    background-color: red;
+//  }
+//}
+
+
